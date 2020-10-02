@@ -1,6 +1,6 @@
 <hr>
 
-<h2 align = "center">Hi there 👋 I'm Farhan Irani( friends call me fiki :))</h2>
+<h2 align = "center">Hi there 👋 I'm Farhan Irani</h2>
 
 <p align="center">
 🚀 I love writing code that comes to life. 🌱👁️👁️<br>
