@@ -4,10 +4,10 @@
 
 <p align="center">
 🚀 I love writing code that comes to life. 🌱👁️👁️<br>
-🔭 I’m currently working on an <a href="https://instagram-clone-react-3aadc.web.app/">Instagram Clone</a> <br>
-🌱 I’m currently learning Redux, Chart.js, etc... always learning :) <br>
+🔭 I’m currently working on Diswire, <a href="https://instagram-clone-react-3aadc.web.app/">Instagram Clone</a> <br>
+<!--🌱 I’m currently learning Redux <br> -->
 💬 Ask me about Web development<br>
-📫 Reach me on ➡️<a href="https://discord.gg/8BvbqpM">Discord</a>⬅️
+📫 Reach me on <a href="https://discord.gg/8BvbqpM">Discord</a>
 </p>
 
 <hr>
