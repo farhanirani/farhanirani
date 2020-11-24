@@ -16,9 +16,6 @@
 <a href="https://www.linkedin.com/in/farhanirani">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://discord.gg/8BvbqpM">
-  <img src = "https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
-</a>
 <a href="https://www.instagram.com/fki_20">
   <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
