@@ -4,7 +4,7 @@
 
 <p align="center">
 🚀 I love writing code that comes to life. 🌱👁️👁️<br>
-🔭 I’m currently working on <a href="https://diswire.herokuapp.com/reg">Diswire</a> <br>
+<!-- 🔭 I’m currently working on <a href="https://diswire.herokuapp.com/reg">Diswire</a> <br> -->
 <!--🌱 I’m currently learning Redux <br> -->
 💬 Ask me about Web development<br>
 </p>
