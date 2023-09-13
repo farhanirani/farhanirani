@@ -36,13 +36,13 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
 
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" />
 
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" />
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&amp;logo=Capacitor&amp;logoColor=white" />
 
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" />
