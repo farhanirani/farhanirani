@@ -31,8 +31,7 @@
 
 
 <p align="center">
-  
-  <div class="somelineheight"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
@@ -45,7 +44,6 @@
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" />
 
 <br><br>
-
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" />
@@ -54,8 +52,8 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&amp;logo=Capacitor&amp;logoColor=white" />
-<br><br>
 
+<br><br>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" />
@@ -66,9 +64,6 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&amp;style=for-the-badge&amp;logo=material-ui&amp;logoColor=white" />
-
-</div>
-
 </p>
 
 <hr>
