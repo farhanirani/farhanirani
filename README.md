@@ -30,31 +30,45 @@
 <h3 align="center">My Skills 🚀</h3>
 
 
-<p align="center"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src = "https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>        
+<p align="center">
   
-<br>
+  <div class="somelineheight"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
 
-<img src = "https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>     
-<img src = "https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
-<img src = "https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src = "https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>      
-<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<br>
+<br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" />
 
-<img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>               
-<img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>                 
-<img src = "https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>       
-<img src = "https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> 
-<img src = "https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>                   
-<img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>             
-<img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>    
+<br><br>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&amp;logo=Capacitor&amp;logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&amp;style=for-the-badge&amp;logo=php&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&amp;style=for-the-badge&amp;logo=material-ui&amp;logoColor=white" />
+
+</div>
+
 </p>
 
 <hr>
