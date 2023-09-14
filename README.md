@@ -29,6 +29,7 @@
 
 <h3 align="center">My Skills 🚀</h3>
 
+<div align="center">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" />
