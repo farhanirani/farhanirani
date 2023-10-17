@@ -1,6 +1,7 @@
 <hr>
 
 <h2 align = "center">Hi there 👋 I'm Farhan Irani</h2>
+<h2 align = "center">Check Out ===>>>> <a href="https://farhanirani.com" target="_blank">My Portfolio Website!</a></h2>
 
 <p align="center">
 🚀 I love writing code that comes to life. 🌱👁️👁️<br>
