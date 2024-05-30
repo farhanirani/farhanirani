@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
 <br>
 <br>
