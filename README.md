@@ -12,16 +12,6 @@
 
 <hr>
 
-<h3 align="center">My Links</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/farhanirani">
-  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<img src = "https://badges.pufler.dev/visits/farhanirani/farhanirani?style=for-the-badge">
-</p>
-
-<hr>
-
 <h3 align="center">My Skills 🚀</h3>
 
 <div align="center">
