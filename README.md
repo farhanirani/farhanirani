@@ -7,7 +7,7 @@
 🚀 I love writing code that comes to life. 🌱👁️👁️<br>
 <!-- 🔭 I’m currently working on <a href="https://diswire.herokuapp.com/reg">Diswire</a> <br> -->
 <!--🌱 I’m currently learning Redux <br> -->
-💬 Ask me about Web development<br>
+💬 Ask me about Web/App development<br>
 </p>
 
 <hr>
@@ -16,12 +16,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/farhanirani">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/fki_20">
-  <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-<a href="https://dev.to/farhanirani">
-  <img src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">
 </a>
 <img src = "https://badges.pufler.dev/visits/farhanirani/farhanirani?style=for-the-badge">
 </p>
