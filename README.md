@@ -11,7 +11,7 @@
 </p>
 
 <hr>
-
+<!-- 
 <h3 align="center">My Skills 🚀</h3>
 
 <div align="center">
@@ -60,4 +60,4 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=farhanirani&theme=algolia&show_icons=true&hide=issues" />
 </p>
 
-<hr>
+<hr> -->
