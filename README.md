@@ -1,10 +1,9 @@
 <hr>
 
 <h2 align = "center">I'm Farhan Irani</h2>
-<h2 align = "center">Check Out ===>>>> <a href="https://farhanirani.com" target="_blank">link</a>!, or don't, it's a free world</h2>
 
 <p align="center">
-🚀 I fuck with building awesome websites and apps 🌱👁️👁️<br>
+🚀 I fuck with building awesome software (sites & apps) that help people live better. 🌱👁️👁️<br>
 </p>
 
 <hr>
