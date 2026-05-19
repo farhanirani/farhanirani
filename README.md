@@ -1,13 +1,10 @@
 <hr>
 
-<h2 align = "center">Hi there 👋 I'm Farhan Irani</h2>
-<h2 align = "center">Check Out ===>>>> <a href="https://farhanirani.com" target="_blank">My Portfolio Website!</a></h2>
+<h2 align = "center">I'm Farhan Irani</h2>
+<h2 align = "center">Check Out ===>>>> <a href="https://farhanirani.com" target="_blank">link</a>!, or don't, it's a free world</h2>
 
 <p align="center">
-🚀 I love writing code that comes to life. 🌱👁️👁️<br>
-<!-- 🔭 I’m currently working on <a href="https://diswire.herokuapp.com/reg">Diswire</a> <br> -->
-<!--🌱 I’m currently learning Redux <br> -->
-💬 Ask me about Web/App development<br>
+🚀 I fuck with building awesome websites and apps 🌱👁️👁️<br>
 </p>
 
 <hr>
