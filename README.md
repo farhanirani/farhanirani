@@ -3,7 +3,7 @@
 <h2 align = "center">I'm Farhan Irani</h2>
 
 <p align="center">
-🚀 I fuck with building awesome software (sites & apps) that help people live better. 🌱👁️👁️<br>
+🚀 I fuck with building tools that make problems disappear 🌱👁️👁️<br>
 </p>
 
 <hr>
