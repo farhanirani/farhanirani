@@ -3,7 +3,7 @@
 <h2 align = "center">I'm FikiSoft.in</h2>
 
 <p align="center">
-🚀 I fuck with crafting software that makes life more fun or better, or both 🌱<br>
+🚀 I build software that makes life more fun or better, or both 🌱<br>
 </p>
 
 <hr>
