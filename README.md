@@ -1,9 +1,9 @@
 <hr>
 
-<h2 align = "center">I'm Farhan Irani</h2>
+<h2 align = "center">I'm FikiSoft.in</h2>
 
 <p align="center">
-🚀 I fuck with crafting software that makes life better or easier 🌱<br>
+🚀 I fuck with crafting software that makes life more fun or better, or both 🌱<br>
 </p>
 
 <hr>
