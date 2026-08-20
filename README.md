@@ -1,6 +1,6 @@
 <hr>
 
-<h2 align = "center">I'm FikiSoft.in</h2>
+<h2 align="center">I'm <a href="https://fikisoft.in">FikiSoft.in</a></h2>
 
 <p align="center">
 🚀 I build software that makes life more fun or better, or both 🌱<br>
